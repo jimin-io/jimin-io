@@ -5,8 +5,7 @@
 **Data Analyst | 데이터 분석가 유지민입니다**
 
 
-<a href="https://velog.io/@yujimin-io"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-&nbsp; <a href="https://yujimin-io.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://yujimin-io.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
 <br>
 
